@@ -1,2 +1,2 @@
 # lecture-6
-functions
+functions and kadanes algo
